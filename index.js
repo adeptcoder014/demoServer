@@ -6,7 +6,6 @@ require("./database");
 const routes = require('./routes')
 //====================================================
 
-// Use the session middleware
 
 app.use(
   cors({
